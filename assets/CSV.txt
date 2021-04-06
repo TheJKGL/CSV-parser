@@ -1,0 +1,4 @@
+0,1,2,3
+man,"p""lan",canal,panama
+Vi,"In, Por",aaa,bbb
+"he llo",-edammas-,-Middle East-,"""""""Vin"",,"""" aa"""
